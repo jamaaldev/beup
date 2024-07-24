@@ -1,0 +1,19 @@
+.skill_card{
+    text-align: center;
+    margin: 20px;
+}
+.skill__icon__wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 40px;
+    flex-wrap: wrap
+}
+.skill__title{
+   font-size: 2em;
+}
+.block{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+}
